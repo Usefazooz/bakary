@@ -1,0 +1,121 @@
+.homee{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.homee .lay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.512);
+}
+.nav-item .nav-link{
+    color: aliceblue;
+    font-size: 1.3rem;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nav-item .nav-link:hover{
+    color: rgb(123, 90, 90);
+}
+.asd{
+    height: 85vh;
+}
+.aaaa{
+    
+   padding-top: 5%;
+   color: #ccc;
+    
+}
+.ha{
+    font-size: 4rem;
+    padding-top: 1%;
+    color: #ffffff;
+}
+.para{
+    font-size: 1.5rem;
+    padding-top: 1%;
+    color: #ccc;
+}
+.azaz1 {
+    font-size: 16px;
+    background: #8e7754;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    cursor: pointer;
+    margin-top: 3%;
+    
+}
+.azaz2 {
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    background: none;
+    padding: 13px 20px;
+}
+.azaz1:hover{
+   background-color: #fff;
+   color: black;
+   font-weight: bold;
+}
+.azaz2:hover:hover{
+    background: #1d0d0d;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+ }
+ .abouh{
+    font-size: 2.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+ }
+ .dde{
+    color: #909090;
+ }
+ .spa{
+    margin-left: 5px;
+    color: #4b4b4b;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .iic{
+    margin-left: 5%;
+    color: #796122; 
+ }
+ .imhover:hover{
+    transform: scale(90%);
+    cursor: pointer;
+ }
+ .fflf{
+    background-color: #f1f1f1;
+ }
+ .textcoler{
+    color: #545454;
+    font-size: 1.1rem;
+    
+   
+ }
+ .conta{
+    background-color: #f1f1f1;
+ }
+ .sdsd{
+    float: right;
+ }
+ .azaaa{
+    margin-left: 10%;
+ }
+ .fottt{
+    background-color: #4b4b4b;
+ }
+ .icocol{
+    color: rgb(52, 162, 162);
+ }
+ 
+ .gg{
+    color: #1d0d0d;
+ }
